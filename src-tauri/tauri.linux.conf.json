@@ -1,14 +1,14 @@
 {
   "tauri": {
     "bundle": {
-      "icon": ["png/weread_512.png"],
-      "identifier": "com.tw93.weread",
+      "icon": ["png/magickpen_512.png"],
+      "identifier": "com.tw93.magickpen",
       "active": true,
       "category": "DeveloperTool",
       "copyright": "",
       "deb": {
         "depends": ["curl", "wget"],
-        "files": {"/usr/share/applications/com-tw93-weread.desktop": "assets/com-tw93-weread.desktop"}
+        "files": {"/usr/share/applications/com-tw93-magickpen.desktop": "assets/com-tw93-magickpen.desktop"}
       },
       "externalBin": [],
       "longDescription": "",

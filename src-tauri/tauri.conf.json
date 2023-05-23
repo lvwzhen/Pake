@@ -1,6 +1,6 @@
 {
   "package": {
-    "productName": "WeRead",
+    "productName": "MagickPen",
     "version": "1.0.0"
   },
   "tauri": {
@@ -11,7 +11,7 @@
       "active": false
     },
     "systemTray": {
-      "iconPath": "png/weread_512.png",
+      "iconPath": "png/magickpen_512.png",
       "iconAsTemplate": true
     },
     "allowlist": {
